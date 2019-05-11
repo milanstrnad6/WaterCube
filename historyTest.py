@@ -1,0 +1,5 @@
+#SUBMODULE:HISTORY TEST
+
+import HISTORY
+
+HISTORY.test()
